@@ -1,0 +1,1 @@
+- git command for remove .class files form git remo--> git rm -f \*.class
